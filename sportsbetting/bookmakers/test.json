@@ -1,0 +1,486 @@
+{
+    'openMarketCount': 2347,
+    'mobileSportTypeLayout': 3,
+    'top': {
+      'isTop': True,
+      'order': 2
+    },
+    'competitions': [
+      {
+        'openMarketCount': 603,
+        'country': {
+          'code': 'BE',
+          'name': 'Belgique',
+          'top': {
+            'isTop': True,
+            'order': 1
+          },
+          'openMarketCountForSport': 603
+        },
+        'allSportsTop': {
+          'isTop': True,
+          'order': 8
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 1
+        },
+        'id': 21197,
+        'name': 'Anvers ATP',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 554,
+        'country': {
+          'code': 'SE',
+          'name': 'Suède',
+          'top': {
+            'isTop': True,
+            'order': 2
+          },
+          'openMarketCountForSport': 554
+        },
+        'allSportsTop': {
+          'isTop': True,
+          'order': 10
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 2
+        },
+        'id': 573,
+        'name': 'Stockholm ATP',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 559,
+        'country': {
+          'code': 'IT',
+          'name': 'Italie',
+          'top': {
+            'isTop': True,
+            'order': 3
+          },
+          'openMarketCountForSport': 559
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 11
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 3
+        },
+        'id': 31705,
+        'name': 'Naples ATP',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 621,
+        'country': {
+          'code': 'MX',
+          'name': 'Mexique',
+          'top': {
+            'isTop': True,
+            'order': 4
+          },
+          'openMarketCountForSport': 621
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 18
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 4
+        },
+        'id': 28392,
+        'name': 'Guadalajara WTA',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'US',
+          'name': 'États-Unis',
+          'top': {
+            'isTop': True,
+            'order': 5
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 124
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 5
+        },
+        'id': 196,
+        'name': 'US Open H.',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'US',
+          'name': 'États-Unis',
+          'top': {
+            'isTop': True,
+            'order': 5
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 125
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 6
+        },
+        'id': 211,
+        'name': 'US Open F.',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'ZY',
+          'name': 'International',
+          'top': {
+            'isTop': True,
+            'order': 6
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 126
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 7
+        },
+        'id': 10,
+        'name': 'Coupe Davis',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'ZY',
+          'name': 'International',
+          'top': {
+            'isTop': True,
+            'order': 6
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 127
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 8
+        },
+        'id': 28548,
+        'name': 'Billie Jean King Cup',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'EN',
+          'name': 'Angleterre',
+          'top': {
+            'isTop': True,
+            'order': 7
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 128
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 9
+        },
+        'id': 24,
+        'name': 'Wimbledon H.',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'EN',
+          'name': 'Angleterre',
+          'top': {
+            'isTop': True,
+            'order': 7
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 129
+        },
+        'sportTop': {
+          'isTop': True,
+          'order': 10
+        },
+        'id': 51,
+        'name': 'Wimbledon F.',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'FR',
+          'name': 'France',
+          'top': {
+            'isTop': True,
+            'order': 8
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 130
+        },
+        'sportTop': {
+          'isTop': False,
+          'order': 11
+        },
+        'id': 59,
+        'name': 'Roland-Garros H.',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'FR',
+          'name': 'France',
+          'top': {
+            'isTop': True,
+            'order': 8
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 131
+        },
+        'sportTop': {
+          'isTop': False,
+          'order': 12
+        },
+        'id': 116,
+        'name': 'Roland-Garros F.',
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'AU',
+          'name': 'Australie',
+          'top': {
+            'isTop': True,
+            'order': 9
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 156
+        },
+        'sportTop': {
+          'isTop': False,
+          'order': 13
+        },
+        'id': 22,
+        'name': "Open d'Australie H.",
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      },
+      {
+        'openMarketCount': 1,
+        'country': {
+          'code': 'AU',
+          'name': 'Australie',
+          'top': {
+            'isTop': True,
+            'order': 9
+          },
+          'openMarketCountForSport': 2
+        },
+        'allSportsTop': {
+          'isTop': False,
+          'order': 157
+        },
+        'sportTop': {
+          'isTop': False,
+          'order': 14
+        },
+        'id': 46,
+        'name': "Open d'Australie F.",
+        'position': 0,
+        'iafc': False,
+        'displayImage': False,
+        'logoRatio': 0.0
+      }
+    ],
+    'competitionGroups': [
+      {
+        'name': 'ATP',
+        'columnIndex': 1,
+        'rowIndex': 1,
+        'flatIndex': 1,
+        'competitionsIds': [
+          {
+            'competitionId': 10,
+            'positionInGroup': 1
+          },
+          {
+            'competitionId': 21197,
+            'positionInGroup': 2
+          },
+          {
+            'competitionId': 31705,
+            'positionInGroup': 5
+          },
+          {
+            'competitionId': 573,
+            'positionInGroup': 8
+          }
+        ]
+      },
+      {
+        'name': 'Challengers',
+        'columnIndex': 2,
+        'rowIndex': 1,
+        'flatIndex': 3,
+        'competitionsIds': [
+          
+        ]
+      },
+      {
+        'name': 'ITF',
+        'columnIndex': 2,
+        'rowIndex': 2,
+        'flatIndex': 4,
+        'competitionsIds': [
+          
+        ]
+      },
+      {
+        'name': 'WTA',
+        'columnIndex': 2,
+        'rowIndex': 2,
+        'flatIndex': 4,
+        'competitionsIds': [
+          {
+            'competitionId': 28548,
+            'positionInGroup': 1
+          },
+          {
+            'competitionId': 28392,
+            'positionInGroup': 2
+          }
+        ]
+      },
+      {
+        'name': 'Paris sur la compétition',
+        'columnIndex': 3,
+        'rowIndex': 1,
+        'flatIndex': 5,
+        'competitionsIds': [
+          {
+            'competitionId': 22,
+            'positionInGroup': 1
+          },
+          {
+            'competitionId': 46,
+            'positionInGroup': 2
+          },
+          {
+            'competitionId': 59,
+            'positionInGroup': 3
+          },
+          {
+            'competitionId': 116,
+            'positionInGroup': 4
+          },
+          {
+            'competitionId': 24,
+            'positionInGroup': 5
+          },
+          {
+            'competitionId': 51,
+            'positionInGroup': 6
+          },
+          {
+            'competitionId': 196,
+            'positionInGroup': 7
+          },
+          {
+            'competitionId': 211,
+            'positionInGroup': 8
+          }
+        ]
+      },
+      {
+        'name': 'Exhibition',
+        'columnIndex': 3,
+        'rowIndex': 2,
+        'flatIndex': 6,
+        'competitionsIds': [
+          
+        ]
+      }
+    ],
+    'id': 2,
+    'name': 'Tennis',
+    'position': 20
+  }
