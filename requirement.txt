@@ -11,3 +11,9 @@ fake-useragent==0.1.11
 websockets==9.1
 pandas==1.4.2
 keyboard==0.13.5
+requests
+colorama
+pillow
+pypiwin32
+pyopenssl==22.0.0
+
